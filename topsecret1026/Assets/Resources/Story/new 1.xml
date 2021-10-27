@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chapter1>
+  <Line ID="1" speaker="me">
+    <sprite>kiyoka</sprite>
+    <spritenum>sprite1</spritenum>
+    <theLine>hi</theLine>
+  </Line>
+  <Line ID="2" speaker="Kofuki">
+    <sprite>kofuki</sprite>
+    <spritenum>sprite2</spritenum>
+    <theLine>Dang Kiyoka, Toji no Miko is ending, but your bust size is still stuck at double As.  </theLine>
+  </Line>
+  <Line ID="3" speaker="me">
+    <theLine>roooooooooooosssststsstststst</theLine>
+  </Line>
+</Chapter1>
